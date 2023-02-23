@@ -13,8 +13,8 @@
 </div>
 
 ### :man_technologist: About Me:
-I am a CSE student at GUC. Looking forward to learn more!
-- 🌱 I’m currently learning Web development.
+I am a CSE student at GUC and a software developer. Always looking forward to learn more!
+- 🌱 I’m currently learning Web development and improving my problem solving skills.
 - 📫 How to reach me: You can contact me on **alaaismail286@gmail.com**
 
   
